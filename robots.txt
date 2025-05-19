@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://Elnaretto.github.io/my_cv_site/sitemap.xml
